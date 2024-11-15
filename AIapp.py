@@ -3,7 +3,6 @@ import requests
 import json
 import html
 import streamlit as st
-from config import PAGE_CONFIG, FONT_CONFIG, API_CONFIG, PHYSICS_CONSTANTS, NACA_PARAMS
 import datetime
 from datetime import datetime
 
