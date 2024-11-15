@@ -447,7 +447,7 @@ st.markdown(
     <div style="background-color: #E6F3FF; padding: 10px; border-radius: 5px; color: #003366;">
     ⚠️ <strong>温馨提示</strong> AI助手会尽力提供准确的信息，但回答仅供参考。重要决策请自行验证。
     </div>
-    """，
+    """,
     unsafe_allow_html=True
 )
 
